@@ -1,2 +1,2 @@
 # Projeto_FCamara
-Minha primeira Langing Page
+Minha primeira Landing Page
